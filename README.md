@@ -1,2 +1,1 @@
-# comics-museum
-Comics museum
+# 漫画馆

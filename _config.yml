@@ -1,0 +1,9 @@
+title: 漫画馆
+email: "admin@basiccat.org"
+permalink: /:title/
+description: ImageTrans翻译的漫画
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+plugins:
+  - jekyll-feed
+
