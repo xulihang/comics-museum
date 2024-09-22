@@ -2,35 +2,37 @@
 
 0: I'M SELLING OSOGOOD SILVER POLISH!
 
-0: 您好，我是真棒牌银器抛光剂的销售员。
+0: 我是“真棒牌”银器
+抛光剂的销售员！
 
 1: GRUNT!
 
 1: 嗯哼！
 
-2: THIS WONDERFUL POLISH WILL MAKE YOUR OLD SILVER LOOK LIKE h NEW ! AND IT'S ONLY FIFTY CENTS A QUART!
+2: THIS WONDERFUL POLISH WILL MAKE YOUR OLD SILVER LOOK LIKE NEW! AND IT'S ONLY FIFTY CENTS A QUART!
 
-2: 这种神奇的抛光剂能让您的
-旧银器焕然一新！每品脱
-只要50美分！
+2: 这种神奇的抛光剂
+能让您的旧银器焕然一新！
+而且每夸脱只需五十美分！
 
-3: MY SILVERWARE IS HOME. HOW'LL I KNOW YOUR POLISH IS AS GOOD AS YOU SAY?
+3: MY SILVERWARE IS HOME! HOW'LL I KNOW YOUR POLISH IS AS GOOD AS YOU SAY?
 
-3: 我的银器放在家里，我怎么知道你的抛光剂像你说的一样好？
+3: 我的银器在家呢！我怎么知道你的抛光剂像你说的那么好？
 
-4: EASY！
+4: EASY!
 
-4: 这个简单！
+4: 简单！
 
-5: YOU MUST HAVE SOME SILVER COINS HANDY! I'LL GLADLY POLISH THEM TO SHOW YOU HOW IT WORKS
+5: YOU MUST HAVE SOME SILVER COINS HANDY! I'LL GLADLY POLISH THEM TO SHOW YOU HOW IT WORKS!
 
-5: 您手边一定有一些银币！我可以为您现场抛光，以看看实际效果。
+5: 您手头一定有一些银币！我很乐意为您现场抛光以展示它的效果！
 
 6: IT'S A DEAL!
 
 6: 一言为定！
 
-7: WELL, DON'T JUST STAND THERE! GET TO WORK.
+7: WELL, DON'T JUST STAND THERE! GET TO WORK!
 
-7: 别光站在那儿！开始工作吧。
+7: 好了，别光站在那儿！
+开始干活吧！
 
