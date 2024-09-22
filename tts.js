@@ -51,6 +51,7 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
 }
 
 function speak(text, voice){
+    text = text.toLowerCase();
     if (synth.speaking) {
         console.error('speechSynthesis.speaking');
         return;
